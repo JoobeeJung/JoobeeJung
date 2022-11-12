@@ -1,6 +1,8 @@
 ### Hi there 👋
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
 
+<!--
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)
 
 <!--
