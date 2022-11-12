@@ -4,7 +4,6 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung&show_icons=true&theme=radical)](https://github.com/JoobeeJung)
 
