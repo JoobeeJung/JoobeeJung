@@ -64,7 +64,15 @@ I'm interested in AI/ML especially MLOps. -->
 
  ## Projects 💻
  
- ### Korea National Rehabilitation Research Institute
+### KB DIGI Campus
+July 2022 - Aug 2022
+
+• Developed web and mobile applications to book movie tickets with IMDb Open API
+
+Repository:https://github.com/JoobeeJung/movie_pjt <br>
+Repository for native:https://github.com/JoobeeJung/movie_android_kotlin
+
+### Korea National Rehabilitation Research Institute
 Oct 2018 - Jan 2019 
 
 • Developed healthcare system to recommend proper diet and exercise regimes. Enabled 300 health consultants to provide their services online to 2,000 people with disabilities<br>
@@ -72,6 +80,30 @@ Oct 2018 - Jan 2019
 
 Repository: <https://github.com/JoobeeJung/hdss>
 
+### Building community website “Mat-Eat-Da”, 1st place
+Sep 2018 - Dec 2018
+
+• Developed website sharing ‘Mukbang(Eating show)’, recipes, and restaurants from ‘Programming 2’ course <br>
+• Won 1st place among 7 groups using PHP, MySQL, JavaScript, HTML and CSS 
+
+Repository: <https://github.com/JoobeeJung/mat-eat-da>
+
+### Data Analytics Course Group Project
+Sep 2018 - Dec 2018
+
+• Analyzed reviews of electronic products from eBay focusing on smartphones and laptops of Samsung and Apple
+<br>
+• Took part in scrapping review data and compared the results with word clouds and distribution of sentiment score from the reviews using R, and Rstudio
+
+Repository: https://github.com/JoobeeJung/R-programming
+
+### Data Mining Course Group Project
+Sep 2018 - Dec 2018
+
+• Analyzed reviews of top 3 hotels in New York from Booking.com website<br>
+• Collected the positive and negative reviews and compared the hotels with word clouds, text clustering, text topic and association using SAS, R, Rstudio, and UCINET
+
+Repository: https://github.com/JoobeeJung/text-mining
 
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
