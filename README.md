@@ -4,11 +4,12 @@ I have developed web and mobile applications using Java, Python, Vue.js, PHP, Ja
 I'm interested in AI/ML especially MLOps. -->
 
  ![header](https://capsule-render.vercel.app/api?type=waving&text=Joobee%Jung&color=auto)
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)
+
  ## Skills & Languages 👩‍💻
  
  ### Programming Languages
- <p align="center">
+ <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp
@@ -24,7 +25,7 @@ I'm interested in AI/ML especially MLOps. -->
 </p>
 
  ### Frameworks
- <p align="center">
+ <p>  <!--align="center" -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -32,7 +33,7 @@ I'm interested in AI/ML especially MLOps. -->
  </p>
  
  ### Database
- <p align="center">
+ <p>  <!--align="center" -->
      <img src="https://img.shields.io/badge/IBM DB2-052FAD?style=flat-square&logo=IBM&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp   
@@ -40,7 +41,7 @@ I'm interested in AI/ML especially MLOps. -->
  </p>
  
  ### Tools
-  <p align="center">
+ <p>  <!--align="center" -->
    <img src="https://img.shields.io/badge/RedHat OpenShift-EE0000?style=flat-square&logo=RedHatOpenShift&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
@@ -62,7 +63,6 @@ I'm interested in AI/ML especially MLOps. -->
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)
 
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung&show_icons=true&theme=radical)](https://github.com/JoobeeJung)
