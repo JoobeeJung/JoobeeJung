@@ -60,6 +60,19 @@ I'm interested in AI/ML especially MLOps. -->
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp    
   </p>
 
+<br>
+
+ ## Projects 💻
+ 
+ ### Korea National Rehabilitation Research Institute
+Oct 2018 - Jan 2019 
+
+• Developed healthcare system to recommend proper diet and exercise regimes. Enabled 300 health consultants to provide their services online to 2,000 people with disabilities<br>
+• Reduced medical visits and in-person consultations by 60% with system using PHP, JavaScript, MySQL
+
+Repository: <https://github.com/JoobeeJung/hdss>
+
+
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
 -->
