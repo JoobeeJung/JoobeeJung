@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=Joobee%Jung)
 
 <!--
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoobeeJung)](https://github.com/JoobeeJung)
