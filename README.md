@@ -69,8 +69,9 @@ July 2022 - Aug 2022
 
 • Developed web and mobile applications to book movie tickets with IMDb Open API
 
-Android application demo : https://drive.google.com/file/d/1Z321GydWmmyz4GTWF0JFuiTFCl53qw3V/view?usp=share_link <br>
-Web application demo : https://drive.google.com/file/d/1ttTyF7qSvkHsDfXZgTzvs3dZ_3GCMnzA/view?usp=share_link <br>
+Android application demo : https://youtu.be/vr8JrPZKODM <br>
+Web application demo : https://youtu.be/wzRHeXIxSUI <br> <br>
+
 Repository:https://github.com/JoobeeJung/movie_pjt <br>
 Repository for native:https://github.com/JoobeeJung/movie_android_kotlin
 
