@@ -4,7 +4,7 @@ I have developed web and mobile applications using Java, Python, Vue.js, PHP, Ja
 I'm interested in AI/ML especially MLOps. -->
 
  ![header](https://capsule-render.vercel.app/api?type=waving&text=Joobee%Jung&color=auto)
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)] -->(https://github.com/JoobeeJung/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoobeeJung&layout=compact)](https://github.com/JoobeeJung/github-readme-stats)-->
 
  ## Skills & Languages 👩‍💻
  
