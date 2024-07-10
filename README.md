@@ -63,11 +63,22 @@ I'm interested in AI/ML especially MLOps. -->
 <br>
 
  ## Projects 💻
+
+### TL;DW. Youtube Videos Summarization and Recommendation Tool with LLMs
+Winter 2024
+
+• Developed Youtube Video Summary/Keyword Generator, Recommendation System for TED Talks and Podcasts using 3 different models: SBERT, MiniLM, TF-IDF <br>
+• Implemented conversational AI interface that engages users in natural language interactions allowing them to learn more about specific aspects of the content in real time <br>
+• Techonology used: Streamlit, Python, Langchain Google Gemini API, Youtube Transcript API <br>
+
+
+Deployed application: https://joobeejung-tldw-tldwstreamlit-app-streamlit-main-ftrv3t.streamlit.app/ <br>
+Repository: https://github.com/JoobeeJung/TLDW <br>
  
 ### KB DIGI Campus
 July 2022 - Aug 2022
 
-• Developed web and mobile applications to book movie tickets with IMDb Open API
+• Developed web and mobile applications to book movie tickets with IMDb Open API using Spring, Java, JSP, Javascript, Kotlin
 
 Android application demo : https://youtu.be/vr8JrPZKODM <br>
 Web application demo : https://youtu.be/wzRHeXIxSUI <br> 
