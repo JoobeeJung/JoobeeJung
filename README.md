@@ -75,7 +75,7 @@ Winter 2024
 Deployed application: https://joobeejung-tldw-tldwstreamlit-app-streamlit-main-ftrv3t.streamlit.app/ <br>
 Repository: https://github.com/JoobeeJung/TLDW <br>
  
-### KB DIGI Campus
+### Movie Ticket Booking Android/Desktop Application
 July 2022 - Aug 2022
 
 • Developed web and mobile applications to book movie tickets with IMDb Open API using Spring, Java, JSP, Javascript, Kotlin
